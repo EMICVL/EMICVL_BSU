@@ -1,0 +1,73 @@
+E:\mubariz-mlm\Temp\bin\Debug\Assembly-CSharp.dll
+E:\mubariz-mlm\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\mubariz-mlm\Temp\bin\Debug\Facebook.Unity.Settings.dll
+E:\mubariz-mlm\Temp\bin\Debug\Mono.Cecil.dll
+E:\mubariz-mlm\Temp\bin\Debug\nunit.framework.dll
+E:\mubariz-mlm\Temp\bin\Debug\UnityEditor.dll
+E:\mubariz-mlm\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+E:\mubariz-mlm\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\mubariz-mlm\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\mubariz-mlm\Temp\bin\Debug\UnityEngine.dll
+E:\mubariz-mlm\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\mubariz-mlm\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\mubariz-mlm\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\mubariz-mlm\Temp\bin\Debug\UnityEngine.UI.dll
+E:\mubariz-mlm\Temp\bin\Debug\UnityEngine.VR.dll
+E:\mubariz-mlm\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\mubariz-mlm\Temp\bin\Debug\Unity.DataContract.dll
+E:\mubariz-mlm\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\mubariz-mlm\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\mubariz-mlm\Temp\bin\Debug\Unity.CecilTools.dll
+E:\mubariz-mlm\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\mubariz-mlm\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\mubariz-mlm\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\mubariz-mlm\Temp\bin\Debug\UnityEngine.xml
+E:\mubariz-mlm\Temp\bin\Debug\UnityEditor.xml
+E:\mubariz-mlm\Temp\bin\Debug\UnityEngine.UI.xml
+E:\mubariz-mlm\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\mubariz-mlm\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\mubariz-mlm\Temp\bin\Debug\nunit.framework.xml
+E:\mubariz-mlm\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\mubariz-mlm\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\mubariz-mlm\Temp\bin\Debug\UnityEngine.VR.xml
+E:\mubariz-mlm\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\mubariz-mlm\obj\Debug\Assembly-CSharp.dll
+E:\mubariz-mlm\obj\Debug\Assembly-CSharp.pdb
+E:\Project BSU\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Project BSU\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Project BSU\Temp\bin\Debug\Facebook.Unity.Settings.dll
+E:\Project BSU\Temp\bin\Debug\Mono.Cecil.dll
+E:\Project BSU\Temp\bin\Debug\nunit.framework.dll
+E:\Project BSU\Temp\bin\Debug\UnityEditor.dll
+E:\Project BSU\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+E:\Project BSU\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\Project BSU\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Project BSU\Temp\bin\Debug\UnityEngine.dll
+E:\Project BSU\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Project BSU\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Project BSU\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Project BSU\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Project BSU\Temp\bin\Debug\UnityEngine.VR.dll
+E:\Project BSU\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Project BSU\Temp\bin\Debug\Unity.DataContract.dll
+E:\Project BSU\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Project BSU\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Project BSU\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Project BSU\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Project BSU\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Project BSU\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Project BSU\Temp\bin\Debug\UnityEngine.xml
+E:\Project BSU\Temp\bin\Debug\UnityEditor.xml
+E:\Project BSU\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Project BSU\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Project BSU\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Project BSU\Temp\bin\Debug\nunit.framework.xml
+E:\Project BSU\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\Project BSU\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Project BSU\Temp\bin\Debug\UnityEngine.VR.xml
+E:\Project BSU\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Project BSU\obj\Debug\Assembly-CSharp.dll
+E:\Project BSU\obj\Debug\Assembly-CSharp.pdb
+C:\Users\mathm\Documents\GitHub\Virtual-LAB\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\mathm\Documents\GitHub\Virtual-LAB\obj\Debug\Assembly-CSharp.dll
+C:\Users\mathm\Documents\GitHub\Virtual-LAB\obj\Debug\Assembly-CSharp.pdb

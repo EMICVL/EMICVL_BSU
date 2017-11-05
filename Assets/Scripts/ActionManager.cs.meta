@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0346515cd4045ef4d81d3b4cdae06a47
+timeCreated: 1508828225
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - IntroMusic: {fileID: 8300000, guid: c5b09a11091878e49af411ea9ae568bc, type: 3}
+  - BoxTexture: {fileID: 2800000, guid: 3fe223bb499b6724eae2f113852cbd60, type: 3}
+  - BoxTextureCompleted: {fileID: 2800000, guid: cb9dbb78b7898cc41b7f1ef6af987ae2,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
